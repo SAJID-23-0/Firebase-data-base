@@ -1,0 +1,21 @@
+ul li {
+    display: flex;
+    gap:10px;
+    align-items: center;
+}
+.delete{
+    height: fit-content;
+    padding:  5px 10px;
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+    color: wheat;
+}
+.edt{
+    height: fit-content;
+    padding:  5px 10px;
+    background-color: rgb(162, 251, 72);
+    border: none;
+    border-radius: 10px;
+    color: rgb(4, 4, 3);
+}
